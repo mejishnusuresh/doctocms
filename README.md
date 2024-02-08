@@ -1,4 +1,4 @@
-# project1
+# DoctoCMS
 
 A new Flutter project.
 
